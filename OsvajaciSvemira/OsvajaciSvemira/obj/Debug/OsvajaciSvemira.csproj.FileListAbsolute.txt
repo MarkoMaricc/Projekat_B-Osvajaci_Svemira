@@ -1,0 +1,48 @@
+d:\Users\Korisnik\Desktop\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\OsvajaciSvemira.csproj.AssemblyReference.cache
+d:\Users\Korisnik\Desktop\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\OsvajaciSvemira.csproj.SuggestedBindingRedirects.cache
+d:\Users\Korisnik\Desktop\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\App.g.cs
+d:\Users\Korisnik\Desktop\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\OsvajaciSvemira_MarkupCompile.cache
+d:\Users\Korisnik\Desktop\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\MainWindow.g.cs
+d:\Users\Korisnik\Desktop\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\OsvajaciSvemira_MarkupCompile.lref
+d:\Users\Korisnik\Desktop\OsvajaciSvemira\OsvajaciSvemira\bin\Debug\OsvajaciSvemira.exe.config
+d:\Users\Korisnik\Desktop\OsvajaciSvemira\OsvajaciSvemira\bin\Debug\OsvajaciSvemira.exe
+d:\Users\Korisnik\Desktop\OsvajaciSvemira\OsvajaciSvemira\bin\Debug\OsvajaciSvemira.pdb
+d:\Users\Korisnik\Desktop\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\MainWindow.baml
+d:\Users\Korisnik\Desktop\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\OsvajaciSvemira.g.resources
+d:\Users\Korisnik\Desktop\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\OsvajaciSvemira.Properties.Resources.resources
+d:\Users\Korisnik\Desktop\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\OsvajaciSvemira.csproj.GenerateResource.cache
+d:\Users\Korisnik\Desktop\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\OsvajaciSvemira.csproj.CoreCompileInputs.cache
+d:\Users\Korisnik\Desktop\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\OsvajaciSvemira.exe
+d:\Users\Korisnik\Desktop\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\OsvajaciSvemira.pdb
+d:\Users\Korisnik\Desktop\11140_18-Marko_Maric\Projekat_B-Osvajaci_Svemira\OsvajaciSvemira\OsvajaciSvemira\bin\Debug\OsvajaciSvemira.exe.config
+d:\Users\Korisnik\Desktop\11140_18-Marko_Maric\Projekat_B-Osvajaci_Svemira\OsvajaciSvemira\OsvajaciSvemira\bin\Debug\OsvajaciSvemira.exe
+d:\Users\Korisnik\Desktop\11140_18-Marko_Maric\Projekat_B-Osvajaci_Svemira\OsvajaciSvemira\OsvajaciSvemira\bin\Debug\OsvajaciSvemira.pdb
+d:\Users\Korisnik\Desktop\11140_18-Marko_Maric\Projekat_B-Osvajaci_Svemira\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\OsvajaciSvemira.csproj.AssemblyReference.cache
+d:\Users\Korisnik\Desktop\11140_18-Marko_Maric\Projekat_B-Osvajaci_Svemira\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\OsvajaciSvemira.csproj.SuggestedBindingRedirects.cache
+d:\Users\Korisnik\Desktop\11140_18-Marko_Maric\Projekat_B-Osvajaci_Svemira\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\MainWindow.g.cs
+d:\Users\Korisnik\Desktop\11140_18-Marko_Maric\Projekat_B-Osvajaci_Svemira\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\App.g.cs
+d:\Users\Korisnik\Desktop\11140_18-Marko_Maric\Projekat_B-Osvajaci_Svemira\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\OsvajaciSvemira_MarkupCompile.cache
+d:\Users\Korisnik\Desktop\11140_18-Marko_Maric\Projekat_B-Osvajaci_Svemira\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\OsvajaciSvemira_MarkupCompile.lref
+d:\Users\Korisnik\Desktop\11140_18-Marko_Maric\Projekat_B-Osvajaci_Svemira\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\MainWindow.baml
+d:\Users\Korisnik\Desktop\11140_18-Marko_Maric\Projekat_B-Osvajaci_Svemira\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\OsvajaciSvemira.g.resources
+d:\Users\Korisnik\Desktop\11140_18-Marko_Maric\Projekat_B-Osvajaci_Svemira\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\OsvajaciSvemira.Properties.Resources.resources
+d:\Users\Korisnik\Desktop\11140_18-Marko_Maric\Projekat_B-Osvajaci_Svemira\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\OsvajaciSvemira.csproj.GenerateResource.cache
+d:\Users\Korisnik\Desktop\11140_18-Marko_Maric\Projekat_B-Osvajaci_Svemira\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\OsvajaciSvemira.csproj.CoreCompileInputs.cache
+d:\Users\Korisnik\Desktop\11140_18-Marko_Maric\Projekat_B-Osvajaci_Svemira\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\OsvajaciSvemira.exe
+d:\Users\Korisnik\Desktop\11140_18-Marko_Maric\Projekat_B-Osvajaci_Svemira\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\OsvajaciSvemira.pdb
+d:\Users\Korisnik\Desktop\cetvrta godina\hci\11140_18-Marko_Maric\Projekat_B-Osvajaci_Svemira\OsvajaciSvemira\OsvajaciSvemira\bin\Debug\OsvajaciSvemira.exe.config
+d:\Users\Korisnik\Desktop\cetvrta godina\hci\11140_18-Marko_Maric\Projekat_B-Osvajaci_Svemira\OsvajaciSvemira\OsvajaciSvemira\bin\Debug\OsvajaciSvemira.exe
+d:\Users\Korisnik\Desktop\cetvrta godina\hci\11140_18-Marko_Maric\Projekat_B-Osvajaci_Svemira\OsvajaciSvemira\OsvajaciSvemira\bin\Debug\OsvajaciSvemira.pdb
+d:\Users\Korisnik\Desktop\cetvrta godina\hci\11140_18-Marko_Maric\Projekat_B-Osvajaci_Svemira\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\OsvajaciSvemira.csproj.AssemblyReference.cache
+d:\Users\Korisnik\Desktop\cetvrta godina\hci\11140_18-Marko_Maric\Projekat_B-Osvajaci_Svemira\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\OsvajaciSvemira.csproj.SuggestedBindingRedirects.cache
+d:\Users\Korisnik\Desktop\cetvrta godina\hci\11140_18-Marko_Maric\Projekat_B-Osvajaci_Svemira\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\MainWindow.g.cs
+d:\Users\Korisnik\Desktop\cetvrta godina\hci\11140_18-Marko_Maric\Projekat_B-Osvajaci_Svemira\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\App.g.cs
+d:\Users\Korisnik\Desktop\cetvrta godina\hci\11140_18-Marko_Maric\Projekat_B-Osvajaci_Svemira\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\OsvajaciSvemira_MarkupCompile.cache
+d:\Users\Korisnik\Desktop\cetvrta godina\hci\11140_18-Marko_Maric\Projekat_B-Osvajaci_Svemira\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\OsvajaciSvemira_MarkupCompile.lref
+d:\Users\Korisnik\Desktop\cetvrta godina\hci\11140_18-Marko_Maric\Projekat_B-Osvajaci_Svemira\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\MainWindow.baml
+d:\Users\Korisnik\Desktop\cetvrta godina\hci\11140_18-Marko_Maric\Projekat_B-Osvajaci_Svemira\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\OsvajaciSvemira.g.resources
+d:\Users\Korisnik\Desktop\cetvrta godina\hci\11140_18-Marko_Maric\Projekat_B-Osvajaci_Svemira\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\OsvajaciSvemira.Properties.Resources.resources
+d:\Users\Korisnik\Desktop\cetvrta godina\hci\11140_18-Marko_Maric\Projekat_B-Osvajaci_Svemira\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\OsvajaciSvemira.csproj.GenerateResource.cache
+d:\Users\Korisnik\Desktop\cetvrta godina\hci\11140_18-Marko_Maric\Projekat_B-Osvajaci_Svemira\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\OsvajaciSvemira.csproj.CoreCompileInputs.cache
+d:\Users\Korisnik\Desktop\cetvrta godina\hci\11140_18-Marko_Maric\Projekat_B-Osvajaci_Svemira\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\OsvajaciSvemira.exe
+d:\Users\Korisnik\Desktop\cetvrta godina\hci\11140_18-Marko_Maric\Projekat_B-Osvajaci_Svemira\OsvajaciSvemira\OsvajaciSvemira\obj\Debug\OsvajaciSvemira.pdb
